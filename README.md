@@ -10,7 +10,7 @@ My lifelong passions for Chess & Philosophy have endowed me with analytical & ba
 
 ---
 :globe_with_meridians: My LinkedIn [LinkedIn](https://www.linkedin.com/in/salvis-dislers/)
-
+---
 :globe_with_meridians: My Website: [Red Zambala](https://redzambala.com)
 ---
 Main skills:
