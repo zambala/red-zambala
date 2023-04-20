@@ -13,7 +13,7 @@ My lifelong passions for Chess & Philosophy have endowed me with analytical & ba
 ---
 :globe_with_meridians: My Website: [Red Zambala](https://redzambala.com)
 ---
-Main skills:
+###Main skills:
 
 * C# & .NET
 * PHP
