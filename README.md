@@ -1,4 +1,4 @@
-[banner]: https://github.com/kSenfelds/kSenfelds/blob/main/bannerKS.png](https://media.licdn.com/dms/image/D4D16AQHuz895hnfK5w/profile-displaybackgroundimage-shrink_350_1400/0/1681770272194?e=1687392000&v=beta&t=N81kTLzLC6c-y4De0O6eUuc0SJv4WcCS06hUITgVdxQ
+![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg ](https://github.com/kSenfelds/kSenfelds/blob/main/bannerKS.png](https://media.licdn.com/dms/image/D4D16AQHuz895hnfK5w/profile-displaybackgroundimage-shrink_350_1400/0/1681770272194?e=1687392000&v=beta&t=N81kTLzLC6c-y4De0O6eUuc0SJv4WcCS06hUITgVdxQ))
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Salvis, aka Red Zambala!
 
