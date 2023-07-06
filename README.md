@@ -1,4 +1,4 @@
-![Alt text]([[https://media.licdn.com/dms/image/D4D16AQHuz895hnfK5w/profile-displaybackgroundimage-shrink_350_1400/0/1681770272194?e=1687392000&v=beta&t=N81kTLzLC6c-y4De0O6eUuc0SJv4WcCS06hUITgVdxQ](https://media.licdn.com/dms/image/D4D16AQHuz895hnfK5w/profile-displaybackgroundimage-shrink_350_1400/0/1681770272194?e=1694044800&v=beta&t=iprSg-AOtscdTmOX8u9IKGvSLwl0smpeuKnzDlGjIOo](https://img.redzambala.com/meditacija.jpg)))
+
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Salvis, aka Red Zambala!
 
